@@ -91,3 +91,4 @@ sr.reveal(`.home-swiper, .new-swiper, .newslc`)
 sr.reveal(`.categorydata, .footercontent`, {interval: 100})
 sr.reveal(`.aboutdata, .discountimg`, {origin: 'left'})
 sr.reveal(`.aboutimg, .discountdata`, {origin: 'left'})
+
